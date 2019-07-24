@@ -1,12 +1,12 @@
 {
-  "name": "balance_amount_calculator",
+  "name": "demo_unit_test_typescript",
   "version": "1.0.0",
-  "description": "Module to calculate the user's balanced amount",
+  "description": "Demo project to write unit test cases for basic typescript functions/methods",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "Abhishek Thorat",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^24.0.15",

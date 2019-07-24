@@ -1,12 +1,8 @@
-# User's remaining amount calculator for particular journey. 
+# Demo project to write unit test cases for basic typescript functions/methods
 
-`stack used -> jest + typescript + es6`
+`jest + typescript`
 
  ## Steps to Run the application
  
  - `npm install` - To install all required dependencies
  - `npm test` - To test balance calculation functions.
-
- `Assignment details -`
-   - Added method to calculate the user's remaining amount by considering user's journey.
-   - Added test cases for the same. 
